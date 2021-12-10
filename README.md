@@ -7,8 +7,11 @@ I used Adaboost, MultiBoost (as AdaBoost implemented with SAMME algorithm), Rand
 
 ## Results summary:
 
-![Arryhythmia dataset](./Arrhythmia.png)
+Accuracies of algorithms for Arrhythmia dataset
+![Arryhythmia dataset](./graphs/Arrhythmia.png)
 
-![HRV dataset](./HRV.png)
+Accuracies of algorithms for HRV dataset
+![HRV dataset](./graphs/HRV.png)
 
-![CHF dataset](./CHF.png)
+Accuracies of algorithms for CHF dataset
+![CHF dataset](./graphs/CHF.png)
